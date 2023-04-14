@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+# venv
+venv
+.fxxk_project_env/**/*
+# python bytecode
+*.py[cod]
+*.DS_Store
+# vscode
+.vscode/**/*
